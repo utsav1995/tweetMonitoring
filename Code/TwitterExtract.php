@@ -3,10 +3,10 @@ require_once('TwitterAPIExchange.php');
  
 /** Set Authorization tokens**/
 $settings = array(
-    'oauth_access_token' => "887500575683694592-THHEt5BmZPjPV05SnGnNTR2wLkthttS",
-    'oauth_access_token_secret' => "B9fKi1Ds46GGw7JjbQlzba67B0O3sS9pVyUs0fEfZ3GiR",
-    'consumer_key' => "2FqreXfY0WhqSfDzA1m20yqGy",
-    'consumer_secret' => "Foymcta8cON5gGMbIyfYCPIoJtORgMnfZ0cXISBoPx3w6Duy9z"
+    'oauth_access_token' => "xxxx",
+    'oauth_access_token_secret' => "xxxx",
+    'consumer_key' => "xxxx",
+    'consumer_secret' => "xxxx"
 );
 
 /* To access Search */ 
